@@ -1,9 +1,9 @@
 # SQCS23
 
-Projet réalisé lors de la cinquième session de ma technique en informatique.
+Project completed during the fifth session of my software development program.
 
-Ce projet a été réaliser en équipe.
+This project was done in a team.
 
-Le but du projet était de faire évoluer un programme existant.
+The goal of the project was to enhance an existing program.
 
-Ce projet a été effectué durant l'étendue de la session, donc environ 15 semaines. 
+The project spanned the entire session, approximately 15 weeks.
